@@ -1,1 +1,2 @@
 ini adalah satu
+ini adalah dua
