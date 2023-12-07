@@ -1,3 +1,4 @@
 ini adalah satu
 ini adalah dua
 ini adalah tiga
+ini adalah empat
